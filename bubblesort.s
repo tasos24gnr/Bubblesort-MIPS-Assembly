@@ -1,5 +1,4 @@
-#Anastasios Benos 3130141
-#Efthimios Tsopelas 3130210
+
 # +==========================+
 # |   BubbleSort in MIPS     |
 # +==========================+
